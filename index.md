@@ -1,10 +1,13 @@
 ## Welcome to Angad Singh's website
 
-I am a freshman at Purdue studying CS. This is my first homework assignment for CS 193! 
-### I am experimenting. 
+# Angad's First CS193 Homework
+-I like that CS193 will teach us valuable topics that will aid us in our other CS classes and  help us stand out to employers
+-I also like the TA for the class (Arman) as he is funny and makes the class enjoyable for the students
+-I like that the class is easy 
 
-_This is italics_
-I don't think I am going to change the theme it looks cool. 
+```
+This is a code block. There are no actual website contents in here.
+```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
