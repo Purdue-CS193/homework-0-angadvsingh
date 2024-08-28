@@ -1,5 +1,11 @@
 ## Welcome to Angad Singh's website
 
+I am a freshman at Purdue studying CS. This is my first homework assignment for CS 193! 
+### I am experimenting. 
+
+_This is italics_
+I don't think I am going to change the theme it looks cool. 
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
