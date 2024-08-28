@@ -2,7 +2,7 @@
 
 # Angad's First CS193 Homework
 - I like that CS193 will teach us valuable topics that will aid us in our other CS classes and  help us stand out to employers
-- I also like the TA for the class (Arman) as he is funny and makes the class enjoyable for the students
+- I  like the TA for the class (Arman) since he is funny and makes the class enjoyable for the students
 - I like that the class is easy 
 
 ```
